@@ -1,0 +1,16 @@
+{
+  "name": "local-backup",
+  "version": "1.0.0",
+  "description": "Spanker Özel Olarak Yapılmış ultra gelişmiş local backup rol dağıtma botudur!",
+  "main": "spanker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Spanker",
+  "license": "ISC",
+  "dependencies": {
+    "@vonage/server-sdk": "^2.10.10",
+    "discord.js": "^13.1.0",
+    "fs": "0.0.1-security"
+  }
+}
