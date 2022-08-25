@@ -1,4 +1,2 @@
-# GÜZEL BİR DÖNÜŞ YAPALIM WEB SİTELİ GUARD SİSTEMİ
+# Tehlike modlu guard backup bot
 
-
-# PROJE BİTSİN PAYLAŞICAM
